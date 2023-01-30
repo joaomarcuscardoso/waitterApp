@@ -1,0 +1,3 @@
+### Aplicativo usando react native 
+
+* OBS: projeto criado seguindo as aulas do jstack
